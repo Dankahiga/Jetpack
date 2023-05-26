@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JetpackComposePack</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_text_field">TextFieldActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_assign">AssignActivity</string>
+    <string name="title_activity_assign2">assignActivity2</string>
+</resources>
